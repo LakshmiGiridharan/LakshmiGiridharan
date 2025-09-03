@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 
 
 
 #  Lakshmi Narayanan Giridharan
 
 **DevOps | Cloud | AI-ML Devoleper | Full-Stack AI-ML Engineer**  
 📍 Chicago, IL  
-📧 lgiridharan@hawk.iit.edu | 📞 (773) 842-4388  
+📧 lgiridharan@hawk.illinoistech.edu | 📞 (773) 842-4388  
 [LinkedIn](https://www.linkedin.com/in/lakshmi-narayanan-giridharan-81060a238/) • [GitHub](https://github.com/LakshmiGiridharan)
 
 ---
@@ -63,18 +63,42 @@ _Aug 2018 – Mar 2022_
 
 ##  Experience
 
-###  DevOps Intern  
+**DXC Technology., Remote, USA**
+*Aug 2024 - Present*
+- Built and orchestrated scalable ETL pipelines with PySpark, Scala, and SQL on Databricks, ensuring clean, high-quality,
+and structured data for model training across multiple business domains.
+- Leveraged Databricks Photon engine and Delta Live Tables for performance-critical transformations, significantly
+reducing processing time for model inputs.
+- Designed and implemented secure AWS cloud infrastructure using Terraform, AWS EC2, VPC, IAM, and S3, enabling
+high-availability environments for AI and analytics workloads.
+- Configured Kubernetes clusters with Helm charts and persistent volumes to support containerized microservices,
+ensuring fault tolerance and scalability in multi-cloud deployments.
+- Deployed ML models using Databricks Model Serving and integrated with REST APIs for real-time inference, while
+monitoring model performance using MLflow metrics and Databricks SQL dashboards.
+- Applied MLOps best practices by automating model retraining and deployment pipelines with Databricks Jobs, Docker,
+Kubernetes, GitHub Actions, and Terraform for infrastructure as code.
+
+###  ML Engineer  
 **Schneider Electric Pvt. Ltd., Chennai, India**  
-*May 2022 – Mar 2023*  
-- Built infrastructure automation with Terraform, Ansible, and Kubernetes (AWS EC2, VPC, IAM).  
-- Developed CI/CD pipelines using GitLab CI/CD, Jenkins, GitHub Actions.  
-- Implemented monitoring pipelines via CloudWatch, ELK Stack, Lambda.  
-- Built Kafka and Kinesis-based real-time ingestion for predictive analytics.  
-- Enforced DevSecOps practices with IAM hardening, secrets management, and compliance audits.
+*July 2020 – Dec 2022*  
+- Developed a predictive maintenance platform for a global manufacturing client using Random Forest, Gradient
+Boosting, and LSTM models, reducing equipment downtime by 18% and optimizing service schedules.
+- Engineered ETL workflows with Python, PySpark, and SQL to process multi-terabyte datasets from APIs, IoT sensors,
+and CRM systems, ensuring data integrity and availability for advanced analytics.
+- Designed and deployed AWS-based infrastructure using EC2, S3, Lambda, and VPC to host AI services, ensuring secure,
+scalable, and cost-optimized environments for enterprise workloads.
+- Configured Kubernetes clusters with Helm and persistent volumes to orchestrate containerized data pipelines and AI
+microservices, improving deployment reliability across hybrid cloud environments.
+- Implemented real-time analytics dashboards in Power BI and Tableau to track operational KPIs and predictive model
+outputs, enabling faster decision-making for stakeholders.
+- Automated ML model retraining pipelines with Docker, Kubernetes, and Jenkins, reducing deployment time by 35% and
+ensuring models stayed up-to-date with new data trends.
+- Conducted A/B testing and statistical analysis with Scipy and Statsmodels to validate model performance and
+recommend optimal algorithm selection for production.
 
 ###  Cloud Intern  
 **Microsoft – SAP, Bengaluru, India**  
-*Nov 2021 – Jun 2022*  
+*Nov 2019 – Jun 2020*  
 - Trained in Azure cloud fundamentals and SAP HANA infrastructure.  
 - Deployed and managed applications on Microsoft Azure.  
 - Explored SAP cloud integration and enterprise-grade workflows.
